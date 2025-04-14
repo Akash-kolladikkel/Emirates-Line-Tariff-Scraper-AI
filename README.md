@@ -18,6 +18,13 @@ This Python project automates the extraction of demurrage and detention tariffs 
 
 ---
 
+## 🗂️ Folder Structure
+├── main-code/             # Main scraper and processing scripts (including downloaded Excel and processed CSV files)
+├── Base-code/             # Jupyter notebooks for initial testing
+└── Final/                 # Final combined CSV output
+
+---
+
 ### 🗝️ Set Up API Key
 
 - Create a .env file with your Gemini API key:
