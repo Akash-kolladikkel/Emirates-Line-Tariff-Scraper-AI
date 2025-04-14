@@ -1,0 +1,7 @@
+selenium
+openpyxl
+pandas
+google-generativeai
+python-dotenv
+docling
+python>=3.12
