@@ -8,13 +8,13 @@ This Python project automates the extraction of demurrage and detention tariffs 
 
 ### 🧠 Key Features
 
-- ✅ **Headless Web Scraping** with Selenium
-- 🌍 Loops through **all countries and ports**
-- 📥 **Automated Excel Downloads** named by Country-Port
-- 🔁 **Session Recovery** to prevent browser crashes
-- ⚠️ **Error Handling** for missing data or UI failures
-- 🤖 **AI-based Excel Processing** with Gemini
-- 📊 Generates individual CSVs and a combined `final.csv`
+-  **Headless Web Scraping** with Selenium
+-  Loops through **all countries and ports**
+-  **Automated Excel Downloads** named by Country-Port
+-  **Session Recovery** to prevent browser crashes
+- ⚠ **Error Handling** for missing data or UI failures
+-  **AI-based Excel Processing** with Gemini
+-  Generates individual CSVs and a combined `final.csv`
 
 ---
 
@@ -42,4 +42,5 @@ This Python project automates the extraction of demurrage and detention tariffs 
 
 ---
 
-
+## 📌 Final Notes
+This project automates a normally tedious and error-prone process in the shipping industry using Python, Selenium, and Generative AI. It's reliable, extensible, and production-ready.
