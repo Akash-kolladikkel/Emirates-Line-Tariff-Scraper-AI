@@ -1,0 +1,8 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Vietnam,ESL,"Ho Chi Minh City, Vietnam (Vnsgn) (Vnsgn)",20-Dry,USD,10,N/A,20,40,
+2,Vietnam,ESL,"Ho Chi Minh City, Vietnam (Vnsgn) (Vnsgn)",40-Dry,USD,10,N/A,40,80,
+3,Vietnam,ESL,"Ho Chi Minh City, Vietnam (Vnsgn) (Vnsgn)",40-Reefer,USD,5,50,100,150,
+4,Vietnam,ESL,"Ho Chi Minh City, Vietnam (Vnsgn) (Vnsgn)",20-Flat Rack,USD,10,N/A,20,40,
+5,Vietnam,ESL,"Ho Chi Minh City, Vietnam (Vnsgn) (Vnsgn)",40-Flat Rack,USD,10,N/A,40,80,
+6,Vietnam,ESL,"Ho Chi Minh City, Vietnam (Vnsgn) (Vnsgn)",20-Open Top,USD,10,N/A,20,40,
+7,Vietnam,ESL,"Ho Chi Minh City, Vietnam (Vnsgn) (Vnsgn)",40-Open Top,USD,10,N/A,40,80,

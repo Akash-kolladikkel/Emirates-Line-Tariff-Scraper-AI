@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Sri Lanka,ESL,"Colombo, Sri Lanka (Lkcmb) (Lkcmb)",20-Dry,USD,7,15,,20,
+2,Sri Lanka,ESL,"Colombo, Sri Lanka (Lkcmb) (Lkcmb)",40-Dry,USD,7,23,,30,
+3,Sri Lanka,ESL,"Colombo, Sri Lanka (Lkcmb) (Lkcmb)",40-High Cube Reefer,USD,7,60,,80,
+4,Sri Lanka,ESL,"Colombo, Sri Lanka (Lkcmb) (Lkcmb)",20-Flat Rack,USD,7,16,,21,
+5,Sri Lanka,ESL,"Colombo, Sri Lanka (Lkcmb) (Lkcmb)",40-Flat Rack,USD,7,24,,31,
+6,Sri Lanka,ESL,"Colombo, Sri Lanka (Lkcmb) (Lkcmb)",20-Open Top,USD,7,16,,21,
+7,Sri Lanka,ESL,"Colombo, Sri Lanka (Lkcmb) (Lkcmb)",40-Open Top,USD,7,24,,31,
+8,Sri Lanka,ESL,"Colombo, Sri Lanka (Lkcmb) (Lkcmb)",40-Super Rack,USD,7,24,,31,

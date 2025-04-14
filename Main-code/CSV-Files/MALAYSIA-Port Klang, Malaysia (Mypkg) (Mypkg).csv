@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,MALAYSIA,ESL,"Port Klang, Malaysia (Mypkg) (Mypkg)",20-Dry,MYR,7,78,95,125,
+2,MALAYSIA,ESL,"Port Klang, Malaysia (Mypkg) (Mypkg)",40-Dry,MYR,7,130,160,210,
+3,MALAYSIA,ESL,"Port Klang, Malaysia (Mypkg) (Mypkg)",40-High Cube Reefer,MYR,3,,,,
+4,MALAYSIA,ESL,"Port Klang, Malaysia (Mypkg) (Mypkg)",20-Flat Rack,MYR,3,,,,
+5,MALAYSIA,ESL,"Port Klang, Malaysia (Mypkg) (Mypkg)",40-Flat Rack,MYR,3,,,,
+6,MALAYSIA,ESL,"Port Klang, Malaysia (Mypkg) (Mypkg)",20-Open Top,MYR,3,,,,
+7,MALAYSIA,ESL,"Port Klang, Malaysia (Mypkg) (Mypkg)",40-Open Top,MYR,3,,,,
+8,MALAYSIA,ESL,"Port Klang, Malaysia (Mypkg) (Mypkg)",40-Super Rack,MYR,3,,,,

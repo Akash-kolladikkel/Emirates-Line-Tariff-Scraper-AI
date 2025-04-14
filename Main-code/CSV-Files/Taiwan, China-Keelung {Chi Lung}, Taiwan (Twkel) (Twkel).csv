@@ -1,0 +1,8 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,"Taiwan, China",ESL,"Keelung {Chi Lung}, Taiwan (Twkel) (Twkel)",20-Dry,TWD,3,,,850,
+2,"Taiwan, China",ESL,"Keelung {Chi Lung}, Taiwan (Twkel) (Twkel)",40-Dry,TWD,3,,,1700,
+3,"Taiwan, China",ESL,"Keelung {Chi Lung}, Taiwan (Twkel) (Twkel)",40-High Cube Reefer,TWD,3,,,3600,
+4,"Taiwan, China",ESL,"Keelung {Chi Lung}, Taiwan (Twkel) (Twkel)",20-Flat Rack,TWD,3,,,2050,
+5,"Taiwan, China",ESL,"Keelung {Chi Lung}, Taiwan (Twkel) (Twkel)",40-Flat Rack,TWD,3,,,3100,
+6,"Taiwan, China",ESL,"Keelung {Chi Lung}, Taiwan (Twkel) (Twkel)",20-Open Top,TWD,3,,,2050,
+7,"Taiwan, China",ESL,"Keelung {Chi Lung}, Taiwan (Twkel) (Twkel)",40-Open Top,TWD,3,,,3100,

@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,MALAYSIA,ESL,"Penang, Malaysia (Mypen) (Mypen)",20-Dry,MYR,7,78,95,125,
+2,MALAYSIA,ESL,"Penang, Malaysia (Mypen) (Mypen)",40-Dry,MYR,7,130,160,210,
+3,MALAYSIA,ESL,"Penang, Malaysia (Mypen) (Mypen)",40-High Cube Reefer,MYR,3,300,500,None,
+4,MALAYSIA,ESL,"Penang, Malaysia (Mypen) (Mypen)",20-Flat Rack,MYR,3,150,280,None,
+5,MALAYSIA,ESL,"Penang, Malaysia (Mypen) (Mypen)",40-Flat Rack,MYR,3,300,500,None,
+6,MALAYSIA,ESL,"Penang, Malaysia (Mypen) (Mypen)",20-Open Top,MYR,3,150,280,None,
+7,MALAYSIA,ESL,"Penang, Malaysia (Mypen) (Mypen)",40-Open Top,MYR,3,300,500,None,
+8,MALAYSIA,ESL,"Penang, Malaysia (Mypen) (Mypen)",40-Super Rack,MYR,3,300,500,None,

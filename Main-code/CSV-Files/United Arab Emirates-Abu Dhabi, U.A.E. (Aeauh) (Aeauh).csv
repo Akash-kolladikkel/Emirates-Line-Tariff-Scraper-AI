@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,United Arab Emirates,ESL,"Abu Dhabi, U.A.E. (Aeauh) (Aeauh)",20-Dry,AED,5,75,150,300,
+2,United Arab Emirates,ESL,"Abu Dhabi, U.A.E. (Aeauh) (Aeauh)",40-Dry,AED,5,150,300,600,
+3,United Arab Emirates,ESL,"Abu Dhabi, U.A.E. (Aeauh) (Aeauh)",40-High Cube Reefer,AED,3,400,800,1600,
+4,United Arab Emirates,ESL,"Abu Dhabi, U.A.E. (Aeauh) (Aeauh)",20-Flat Rack,AED,3,75,150,300,
+5,United Arab Emirates,ESL,"Abu Dhabi, U.A.E. (Aeauh) (Aeauh)",40-Flat Rack,AED,3,150,300,600,
+6,United Arab Emirates,ESL,"Abu Dhabi, U.A.E. (Aeauh) (Aeauh)",20-Open Top,AED,3,75,150,300,
+7,United Arab Emirates,ESL,"Abu Dhabi, U.A.E. (Aeauh) (Aeauh)",40-Open Top,AED,3,150,300,600,
+8,United Arab Emirates,ESL,"Abu Dhabi, U.A.E. (Aeauh) (Aeauh)",40-Super Rack,AED,3,150,300,600,

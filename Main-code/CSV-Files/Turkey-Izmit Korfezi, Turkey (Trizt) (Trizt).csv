@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Turkey,ESL,"Izmit Korfezi, Turkey (Trizt) (Trizt)",20-Dry,USD,7,35,55,80,
+2,Turkey,ESL,"Izmit Korfezi, Turkey (Trizt) (Trizt)",40-Dry,USD,7,50,80,115,
+3,Turkey,ESL,"Izmit Korfezi, Turkey (Trizt) (Trizt)",40-High Cube Reefer,USD,3,120,200,None,
+4,Turkey,ESL,"Izmit Korfezi, Turkey (Trizt) (Trizt)",20-Flat Rack,USD,7,55,80,115,
+5,Turkey,ESL,"Izmit Korfezi, Turkey (Trizt) (Trizt)",40-Flat Rack,USD,7,80,115,160,
+6,Turkey,ESL,"Izmit Korfezi, Turkey (Trizt) (Trizt)",20-Open Top,USD,7,55,80,115,
+7,Turkey,ESL,"Izmit Korfezi, Turkey (Trizt) (Trizt)",40-Open Top,USD,7,80,115,160,
+8,Turkey,ESL,"Izmit Korfezi, Turkey (Trizt) (Trizt)",40-Super Rack,USD,7,80,115,160,

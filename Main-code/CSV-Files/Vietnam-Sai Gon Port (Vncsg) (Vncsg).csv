@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Vietnam,ESL,Sai Gon Port (Vncsg) (Vncsg),20-Dry,USD,7,,,30,
+2,Vietnam,ESL,Sai Gon Port (Vncsg) (Vncsg),40-Dry,USD,7,,,60,
+3,Vietnam,ESL,Sai Gon Port (Vncsg) (Vncsg),40-High Cube Reefer,USD,5,80,,120,
+4,Vietnam,ESL,Sai Gon Port (Vncsg) (Vncsg),40-Super Rack,USD,5,40,,80,
+5,Vietnam,ESL,Sai Gon Port (Vncsg) (Vncsg),20-Flat Rack,USD,5,20,,40,
+6,Vietnam,ESL,Sai Gon Port (Vncsg) (Vncsg),40-Flat Rack,USD,5,40,,80,
+7,Vietnam,ESL,Sai Gon Port (Vncsg) (Vncsg),20-Open Top,USD,5,20,,40,
+8,Vietnam,ESL,Sai Gon Port (Vncsg) (Vncsg),40-Open Top,USD,5,40,,80,

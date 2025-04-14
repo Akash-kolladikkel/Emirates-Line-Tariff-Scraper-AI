@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Malaysia,ESL,"Kuching, Malaysia (Mykch) (Mykch)",20’ Dry,MYR,7,78,95,125,
+2,Malaysia,ESL,"Kuching, Malaysia (Mykch) (Mykch)",40’ Dry,MYR,7,130,160,210,
+3,Malaysia,ESL,"Kuching, Malaysia (Mykch) (Mykch)",40' High Cube Reefer,MYR,3,300,500,None,
+4,Malaysia,ESL,"Kuching, Malaysia (Mykch) (Mykch)",20’ Flat Rack,MYR,3,150,280,None,
+5,Malaysia,ESL,"Kuching, Malaysia (Mykch) (Mykch)",40’ Flat Rack,MYR,3,300,500,None,
+6,Malaysia,ESL,"Kuching, Malaysia (Mykch) (Mykch)",20’ Open Top,MYR,3,150,280,None,
+7,Malaysia,ESL,"Kuching, Malaysia (Mykch) (Mykch)",40’ Open Top,MYR,3,300,500,None,
+8,Malaysia,ESL,"Kuching, Malaysia (Mykch) (Mykch)",40’ Super Rack,MYR,3,300,500,None,

@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Mexico,ESL,Manzanillo (Mxzlo) (Mxzlo),20-Dry,USD,7,155,165,175,
+2,Mexico,ESL,Manzanillo (Mxzlo) (Mxzlo),40-Dry,USD,7,155,165,175,
+3,Mexico,ESL,Manzanillo (Mxzlo) (Mxzlo),40-High Cube Reefer,USD,7,200,None,None,
+4,Mexico,ESL,Manzanillo (Mxzlo) (Mxzlo),20-Flat Rack,USD,7,200,None,None,
+5,Mexico,ESL,Manzanillo (Mxzlo) (Mxzlo),40-Flat Rack,USD,7,200,None,None,
+6,Mexico,ESL,Manzanillo (Mxzlo) (Mxzlo),20-Open Top,USD,7,200,None,None,
+7,Mexico,ESL,Manzanillo (Mxzlo) (Mxzlo),40-Open Top,USD,7,200,None,None,
+8,Mexico,ESL,Manzanillo (Mxzlo) (Mxzlo),40-Super Rack,USD,7,200,None,None,

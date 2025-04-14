@@ -1,0 +1,8 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Singapore,ESL,Singapore (Sgsin) (Sgsin),20-Dry,SGD,5,45,70,90,
+2,Singapore,ESL,Singapore (Sgsin) (Sgsin),40-Dry,SGD,5,90,140,180,
+3,Singapore,ESL,Singapore (Sgsin) (Sgsin),20-Flat Rack,SGD,5,45,70,90,
+4,Singapore,ESL,Singapore (Sgsin) (Sgsin),40-Flat Rack,SGD,5,90,140,180,
+5,Singapore,ESL,Singapore (Sgsin) (Sgsin),20-Open Top,SGD,5,45,70,90,
+6,Singapore,ESL,Singapore (Sgsin) (Sgsin),40-Open Top,SGD,5,90,140,180,
+7,Singapore,ESL,Singapore (Sgsin) (Sgsin),40-Super Rack,SGD,5,90,140,180,

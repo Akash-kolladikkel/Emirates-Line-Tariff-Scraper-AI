@@ -1,0 +1,8 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Tanzania,ESL,"Zanzibar, Tanzania (Tzznz) (Tzznz)",20-Dry,USD,14,,,"7 (15-21), 11 (22-28), 34 (29-9999)",
+2,Tanzania,ESL,"Zanzibar, Tanzania (Tzznz) (Tzznz)",40-Dry,USD,14,,,"18 (15-21), 26 (22-28), 34 (29-9999)",
+3,Tanzania,ESL,"Zanzibar, Tanzania (Tzznz) (Tzznz)",20-Flat Rack,USD,14,,,"7 (15-21), 11 (22-28), 34 (29-9999)",
+4,Tanzania,ESL,"Zanzibar, Tanzania (Tzznz) (Tzznz)",40-Flat Rack,USD,14,,,"18 (15-21), 26 (22-28), 34 (29-9999)",
+5,Tanzania,ESL,"Zanzibar, Tanzania (Tzznz) (Tzznz)",20-Open Top,USD,14,,,"7 (15-21), 11 (22-28), 34 (29-9999)",
+6,Tanzania,ESL,"Zanzibar, Tanzania (Tzznz) (Tzznz)",40-Open Top,USD,14,,,"18 (15-21), 26 (22-28), 34 (29-9999)",
+7,Tanzania,ESL,"Zanzibar, Tanzania (Tzznz) (Tzznz)",40-Super Rack,USD,14,,,"18 (15-21), 26 (22-28), 34 (29-9999)",

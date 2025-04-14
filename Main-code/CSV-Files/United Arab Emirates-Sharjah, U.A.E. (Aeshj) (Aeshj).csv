@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,United Arab Emirates,ESL,"Sharjah, U.A.E. (Aeshj) (Aeshj)",20-Dry,AED,5,100,180,500,
+2,United Arab Emirates,ESL,"Sharjah, U.A.E. (Aeshj) (Aeshj)",40-Dry,AED,5,200,360,1000,
+3,United Arab Emirates,ESL,"Sharjah, U.A.E. (Aeshj) (Aeshj)",40-Reefer,AED,3,500,1000,2000,
+4,United Arab Emirates,ESL,"Sharjah, U.A.E. (Aeshj) (Aeshj)",20-Flat Rack,AED,3,150,300,600,
+5,United Arab Emirates,ESL,"Sharjah, U.A.E. (Aeshj) (Aeshj)",40-Flat Rack,AED,3,300,600,1200,
+6,United Arab Emirates,ESL,"Sharjah, U.A.E. (Aeshj) (Aeshj)",20-Open Top,AED,3,150,300,600,
+7,United Arab Emirates,ESL,"Sharjah, U.A.E. (Aeshj) (Aeshj)",40-Open Top,AED,3,300,600,1200,
+8,United Arab Emirates,ESL,"Sharjah, U.A.E. (Aeshj) (Aeshj)",40-Tank,AED,3,300,600,1200,

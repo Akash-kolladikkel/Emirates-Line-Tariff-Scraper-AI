@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,South Korea,ESL,"Incheon, Korea (Krinc) (Krinc)",20-Dry,USD,7,,,11,
+2,South Korea,ESL,"Incheon, Korea (Krinc) (Krinc)",40-Dry,USD,7,,,18,
+3,South Korea,ESL,"Incheon, Korea (Krinc) (Krinc)",40-High Cube Reefer,USD,3,,,70,
+4,South Korea,ESL,"Incheon, Korea (Krinc) (Krinc)",20-Flat Rack,USD,7,,,20,
+5,South Korea,ESL,"Incheon, Korea (Krinc) (Krinc)",40-Flat Rack,USD,7,,,38,
+6,South Korea,ESL,"Incheon, Korea (Krinc) (Krinc)",20-Open Top,USD,7,,,20,
+7,South Korea,ESL,"Incheon, Korea (Krinc) (Krinc)",40-Open Top,USD,7,,,38,
+8,South Korea,ESL,"Incheon, Korea (Krinc) (Krinc)",40-Super Rack,USD,7,,,38,

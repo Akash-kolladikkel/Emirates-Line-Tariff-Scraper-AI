@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Pakistan,ESL,"Karachi, Pakistan (Pkkhi) (Pkkhi)",20-Dry,USD,5,50,70,90,
+2,Pakistan,ESL,"Karachi, Pakistan (Pkkhi) (Pkkhi)",40-Dry,USD,5,70,90,130,
+3,Pakistan,ESL,"Karachi, Pakistan (Pkkhi) (Pkkhi)",40-High Cube Reefer,USD,3,130,165,195,
+4,Pakistan,ESL,"Karachi, Pakistan (Pkkhi) (Pkkhi)",20-Flat Rack,USD,5,55,75,95,
+5,Pakistan,ESL,"Karachi, Pakistan (Pkkhi) (Pkkhi)",40-Flat Rack,USD,5,85,95,135,
+6,Pakistan,ESL,"Karachi, Pakistan (Pkkhi) (Pkkhi)",20-Open Top,USD,5,55,75,95,
+7,Pakistan,ESL,"Karachi, Pakistan (Pkkhi) (Pkkhi)",40-Open Top,USD,5,85,95,135,
+8,Pakistan,ESL,"Karachi, Pakistan (Pkkhi) (Pkkhi)",40-Super Rack,USD,5,85,95,135,

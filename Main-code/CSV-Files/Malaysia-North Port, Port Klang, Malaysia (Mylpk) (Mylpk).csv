@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Malaysia,ESL,"North Port, Port Klang, Malaysia (Mylpk) (Mylpk)",20-Dry,MYR,7,78,95,125,
+2,Malaysia,ESL,"North Port, Port Klang, Malaysia (Mylpk) (Mylpk)",40-Dry,MYR,7,130,160,210,
+3,Malaysia,ESL,"North Port, Port Klang, Malaysia (Mylpk) (Mylpk)",40-Reefer,MYR,3,300,500,,
+4,Malaysia,ESL,"North Port, Port Klang, Malaysia (Mylpk) (Mylpk)",20-Special,MYR,3,150,280,,
+5,Malaysia,ESL,"North Port, Port Klang, Malaysia (Mylpk) (Mylpk)",40-Special,MYR,3,300,500,,
+6,Malaysia,ESL,"North Port, Port Klang, Malaysia (Mylpk) (Mylpk)",20-Special,MYR,3,150,280,,
+7,Malaysia,ESL,"North Port, Port Klang, Malaysia (Mylpk) (Mylpk)",40-Special,MYR,3,300,500,,
+8,Malaysia,ESL,"North Port, Port Klang, Malaysia (Mylpk) (Mylpk)",40-Special,MYR,3,300,500,,

@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Qatar,ESL,"Umm Said, Qatar (Qaums) (Qaums)",20-Dry,QAR,7,75,,150,
+2,Qatar,ESL,"Umm Said, Qatar (Qaums) (Qaums)",40-Dry,QAR,7,150,,300,
+3,Qatar,ESL,"Umm Said, Qatar (Qaums) (Qaums)",40-High Cube Reefer,QAR,3,400,,800,
+4,Qatar,ESL,"Umm Said, Qatar (Qaums) (Qaums)",20-Flat Rack,QAR,5,75,,150,
+5,Qatar,ESL,"Umm Said, Qatar (Qaums) (Qaums)",40-Flat Rack,QAR,5,150,,300,
+6,Qatar,ESL,"Umm Said, Qatar (Qaums) (Qaums)",20-Open Top,QAR,5,75,,150,
+7,Qatar,ESL,"Umm Said, Qatar (Qaums) (Qaums)",40-Open Top,QAR,5,150,,300,
+8,Qatar,ESL,"Umm Said, Qatar (Qaums) (Qaums)",40-Super Rack,QAR,5,150,,300,
