@@ -12,7 +12,7 @@ This Python project automates the extraction of demurrage and detention tariffs 
 -  Loops through **all countries and ports**
 -  **Automated Excel Downloads** named by Country-Port
 -  **Session Recovery** to prevent browser crashes
-- ⚠ **Error Handling** for missing data or UI failures
+-  **Error Handling** for missing data or UI failures
 -  **AI-based Excel Processing** with Gemini
 -  Generates individual CSVs and a combined `final.csv`
 
@@ -34,14 +34,14 @@ This Python project automates the extraction of demurrage and detention tariffs 
 ---
 
 ### ⚙️ Workflow
-## 1️⃣ Web Scraping (emirates_scraper.py)
+## 1️⃣ Web Scraping 
 
 - Launches headless Chrome
 - Loops through all countries and ports
 - Downloads Excel files into Data/
 - Handles browser crashes every 3 countries
 
-## 2️⃣ Data Processing (Data_processing.py)
+## 2️⃣ Data Processing 
 
 - Reads Excel files from Excel-files/
 - Uses Gemini AI to parse to structured format
