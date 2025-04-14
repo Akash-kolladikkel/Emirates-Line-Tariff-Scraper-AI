@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Egypt,ESL,"Alexandria, Egypt (Egaly) (Egaly)",20-Dry,USD,7,40,66,95,
+2,Egypt,ESL,"Alexandria, Egypt (Egaly) (Egaly)",40-Dry,USD,7,60,125,160,
+3,Egypt,ESL,"Alexandria, Egypt (Egaly) (Egaly)",40-High Cube Reefer,USD,5,100,190,None,
+4,Egypt,ESL,"Alexandria, Egypt (Egaly) (Egaly)",20-Flat Rack,USD,4,95,None,None,
+5,Egypt,ESL,"Alexandria, Egypt (Egaly) (Egaly)",40-Flat Rack,USD,4,165,None,None,
+6,Egypt,ESL,"Alexandria, Egypt (Egaly) (Egaly)",20-Open Top,USD,4,95,None,None,
+7,Egypt,ESL,"Alexandria, Egypt (Egaly) (Egaly)",40-Open Top,USD,4,165,None,None,
+8,Egypt,ESL,"Alexandria, Egypt (Egaly) (Egaly)",40-Super Rack,USD,4,165,None,None,

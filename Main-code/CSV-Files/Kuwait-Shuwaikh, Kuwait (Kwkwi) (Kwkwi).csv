@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Kuwait,ESL,"Shuwaikh, Kuwait (Kwkwi) (Kwkwi)",20-Dry,KWD,8,,12,36,
+2,Kuwait,ESL,"Shuwaikh, Kuwait (Kwkwi) (Kwkwi)",40-Dry,KWD,8,,24,72,
+3,Kuwait,ESL,"Shuwaikh, Kuwait (Kwkwi) (Kwkwi)",40-Reefer,KWD,4,40,80,160,
+4,Kuwait,ESL,"Shuwaikh, Kuwait (Kwkwi) (Kwkwi)",20-Flat Rack,KWD,8,,20,60,
+5,Kuwait,ESL,"Shuwaikh, Kuwait (Kwkwi) (Kwkwi)",40-Flat Rack,KWD,8,,40,120,
+6,Kuwait,ESL,"Shuwaikh, Kuwait (Kwkwi) (Kwkwi)",20-Open Top,KWD,8,,20,60,
+7,Kuwait,ESL,"Shuwaikh, Kuwait (Kwkwi) (Kwkwi)",40-Open Top,KWD,8,,40,120,
+8,Kuwait,ESL,"Shuwaikh, Kuwait (Kwkwi) (Kwkwi)",40-Super Rack,KWD,8,,40,120,

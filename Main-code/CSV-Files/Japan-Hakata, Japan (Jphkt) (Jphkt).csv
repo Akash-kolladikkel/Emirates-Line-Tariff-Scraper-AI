@@ -1,0 +1,8 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Japan,ESL,"Hakata, Japan (Jphkt) (Jphkt)",20-Dry,JPY,5,500,,1250,
+2,Japan,ESL,"Hakata, Japan (Jphkt) (Jphkt)",40-Dry,JPY,5,800,,2000,
+3,Japan,ESL,"Hakata, Japan (Jphkt) (Jphkt)",40-High Cube Reefer,JPY,5,2300,,5750,
+4,Japan,ESL,"Hakata, Japan (Jphkt) (Jphkt)",20-Flat Rack,JPY,5,1800,,4500,
+5,Japan,ESL,"Hakata, Japan (Jphkt) (Jphkt)",40-Flat Rack,JPY,5,2300,,5750,
+6,Japan,ESL,"Hakata, Japan (Jphkt) (Jphkt)",20-Open Top,JPY,5,1800,,4500,
+7,Japan,ESL,"Hakata, Japan (Jphkt) (Jphkt)",40-Open Top,JPY,5,2300,,5750,

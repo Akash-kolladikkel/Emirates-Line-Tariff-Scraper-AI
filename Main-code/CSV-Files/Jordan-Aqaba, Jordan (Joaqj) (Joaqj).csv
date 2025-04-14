@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Jordan,ESL,"Aqaba, Jordan (Joaqj) (Joaqj)",20-Dry,USD,7,,,60,
+2,Jordan,ESL,"Aqaba, Jordan (Joaqj) (Joaqj)",40-Dry,USD,7,,,100,
+3,Jordan,ESL,"Aqaba, Jordan (Joaqj) (Joaqj)",40' High Cube Reefer,USD,3,100,,200,
+4,Jordan,ESL,"Aqaba, Jordan (Joaqj) (Joaqj)",20’ Flat Rack,USD,4,35,50,75,
+5,Jordan,ESL,"Aqaba, Jordan (Joaqj) (Joaqj)",40’ Flat Rack,USD,4,70,100,150,
+6,Jordan,ESL,"Aqaba, Jordan (Joaqj) (Joaqj)",20’ Open Top,USD,4,35,50,75,
+7,Jordan,ESL,"Aqaba, Jordan (Joaqj) (Joaqj)",40’ Open Top,USD,4,70,100,150,
+8,Jordan,ESL,"Aqaba, Jordan (Joaqj) (Joaqj)",40’ Super Rack,USD,4,70,100,150,

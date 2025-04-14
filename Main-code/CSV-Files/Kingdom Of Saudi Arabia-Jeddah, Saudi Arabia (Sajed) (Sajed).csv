@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Kingdom Of Saudi Arabia,ESL,"Jeddah, Saudi Arabia (Sajed) (Sajed)",20-Dry,SAR,7,30,60,200,
+2,Kingdom Of Saudi Arabia,ESL,"Jeddah, Saudi Arabia (Sajed) (Sajed)",40-Dry,SAR,7,60,120,300,
+3,Kingdom Of Saudi Arabia,ESL,"Jeddah, Saudi Arabia (Sajed) (Sajed)",40-Reefer,SAR,7,200,350,550,
+4,Kingdom Of Saudi Arabia,ESL,"Jeddah, Saudi Arabia (Sajed) (Sajed)",20-Flat Rack,SAR,7,60,100,400,
+5,Kingdom Of Saudi Arabia,ESL,"Jeddah, Saudi Arabia (Sajed) (Sajed)",40-Flat Rack,SAR,7,120,200,550,
+6,Kingdom Of Saudi Arabia,ESL,"Jeddah, Saudi Arabia (Sajed) (Sajed)",20-Open Top,SAR,7,60,100,400,
+7,Kingdom Of Saudi Arabia,ESL,"Jeddah, Saudi Arabia (Sajed) (Sajed)",40-Open Top,SAR,7,120,200,550,
+8,Kingdom Of Saudi Arabia,ESL,"Jeddah, Saudi Arabia (Sajed) (Sajed)",40-Super Rack,SAR,7,120,200,550,

@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Kingdom Of Saudi Arabia,ESL,"Riyadh, Saudi Arabia (Saruh) (Saruh)",20-Dry,SAR,7,,,60-9999 days refer to data,
+2,Kingdom Of Saudi Arabia,ESL,"Riyadh, Saudi Arabia (Saruh) (Saruh)",40-Dry,SAR,7,,,120-9999 days refer to data,
+3,Kingdom Of Saudi Arabia,ESL,"Riyadh, Saudi Arabia (Saruh) (Saruh)",40-High Cube Reefer,SAR,7,,,350-9999 days refer to data,
+4,Kingdom Of Saudi Arabia,ESL,"Riyadh, Saudi Arabia (Saruh) (Saruh)",20-Flat Rack,SAR,7,,,100-9999 days refer to data,
+5,Kingdom Of Saudi Arabia,ESL,"Riyadh, Saudi Arabia (Saruh) (Saruh)",40-Flat Rack,SAR,7,,,200-9999 days refer to data,
+6,Kingdom Of Saudi Arabia,ESL,"Riyadh, Saudi Arabia (Saruh) (Saruh)",20-Open Top,SAR,7,,,100-9999 days refer to data,
+7,Kingdom Of Saudi Arabia,ESL,"Riyadh, Saudi Arabia (Saruh) (Saruh)",40-Open Top,SAR,7,,,200-9999 days refer to data,
+8,Kingdom Of Saudi Arabia,ESL,"Riyadh, Saudi Arabia (Saruh) (Saruh)",40-Super Rack,SAR,7,,,200-9999 days refer to data,

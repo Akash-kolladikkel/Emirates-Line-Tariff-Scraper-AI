@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Kuwait,ESL,"Shuaiba, Kuwait (Kwsaa) (Kwsaa)",20-Dry,KWD,8,,12,24,
+2,Kuwait,ESL,"Shuaiba, Kuwait (Kwsaa) (Kwsaa)",40-Dry,KWD,8,,24,48,
+3,Kuwait,ESL,"Shuaiba, Kuwait (Kwsaa) (Kwsaa)",40-High Cube Reefer,KWD,4,40,80,120,
+4,Kuwait,ESL,"Shuaiba, Kuwait (Kwsaa) (Kwsaa)",20-Flat Rack,KWD,8,,20,40,
+5,Kuwait,ESL,"Shuaiba, Kuwait (Kwsaa) (Kwsaa)",40-Flat Rack,KWD,8,,40,80,
+6,Kuwait,ESL,"Shuaiba, Kuwait (Kwsaa) (Kwsaa)",20-Open Top,KWD,8,,20,40,
+7,Kuwait,ESL,"Shuaiba, Kuwait (Kwsaa) (Kwsaa)",40-Open Top,KWD,8,,40,80,
+8,Kuwait,ESL,"Shuaiba, Kuwait (Kwsaa) (Kwsaa)",40-Super Rack,KWD,8,,40,80,

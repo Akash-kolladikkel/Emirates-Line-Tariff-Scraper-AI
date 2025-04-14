@@ -1,0 +1,8 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Hong Kong S.A.R.,ESL,"Hong Kong Sar, China (Hkhkg) (Hkhkg)",20-Dry,HKD,7,240,350,525,
+2,Hong Kong S.A.R.,ESL,"Hong Kong Sar, China (Hkhkg) (Hkhkg)",40-Dry,HKD,7,440,550,825,
+3,Hong Kong S.A.R.,ESL,"Hong Kong Sar, China (Hkhkg) (Hkhkg)",20-Flat Rack,HKD,7,325,625,900,
+4,Hong Kong S.A.R.,ESL,"Hong Kong Sar, China (Hkhkg) (Hkhkg)",40-Flat Rack,HKD,7,550,1050,1500,
+5,Hong Kong S.A.R.,ESL,"Hong Kong Sar, China (Hkhkg) (Hkhkg)",20-Open Top,HKD,7,325,625,900,
+6,Hong Kong S.A.R.,ESL,"Hong Kong Sar, China (Hkhkg) (Hkhkg)",40-Open Top,HKD,7,550,1050,1500,
+7,Hong Kong S.A.R.,ESL,"Hong Kong Sar, China (Hkhkg) (Hkhkg)",40-Super Rack,HKD,7,550,1050,1500,

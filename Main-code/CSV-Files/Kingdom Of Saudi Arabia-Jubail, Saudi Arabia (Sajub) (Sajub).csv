@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Kingdom Of Saudi Arabia,ESL,"Jubail, Saudi Arabia (Sajub) (Sajub)",20-Dry,SAR,7,,,60-9999 = 60/100/200,
+2,Kingdom Of Saudi Arabia,ESL,"Jubail, Saudi Arabia (Sajub) (Sajub)",40-Dry,SAR,7,,,120-9999 = 120/200/300,
+3,Kingdom Of Saudi Arabia,ESL,"Jubail, Saudi Arabia (Sajub) (Sajub)",40-High Cube Reefer,SAR,7,,,350-9999 = 350/450/550,
+4,Kingdom Of Saudi Arabia,ESL,"Jubail, Saudi Arabia (Sajub) (Sajub)",20-Flat Rack,SAR,7,,,100-9999 = 100/200/400,
+5,Kingdom Of Saudi Arabia,ESL,"Jubail, Saudi Arabia (Sajub) (Sajub)",40-Flat Rack,SAR,7,,,200-9999 = 200/300/550,
+6,Kingdom Of Saudi Arabia,ESL,"Jubail, Saudi Arabia (Sajub) (Sajub)",20-Open Top,SAR,7,,,100-9999 = 100/200/400,
+7,Kingdom Of Saudi Arabia,ESL,"Jubail, Saudi Arabia (Sajub) (Sajub)",40-Open Top,SAR,7,,,200-9999 = 200/300/550,
+8,Kingdom Of Saudi Arabia,ESL,"Jubail, Saudi Arabia (Sajub) (Sajub)",40-Super Rack,SAR,7,,,200-9999 = 200/300/550,

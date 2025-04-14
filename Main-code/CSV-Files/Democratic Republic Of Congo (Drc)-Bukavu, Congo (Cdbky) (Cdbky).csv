@@ -1,0 +1,8 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Democratic Republic Of Congo (Drc),ESL,"Bukavu, Congo (Cdbky) (Cdbky)",20-Dry,USD,55,,,,
+2,Democratic Republic Of Congo (Drc),ESL,"Bukavu, Congo (Cdbky) (Cdbky)",40-Dry,USD,55,,,,
+3,Democratic Republic Of Congo (Drc),ESL,"Bukavu, Congo (Cdbky) (Cdbky)",20-Flat Rack,USD,55,,,,
+4,Democratic Republic Of Congo (Drc),ESL,"Bukavu, Congo (Cdbky) (Cdbky)",40-Flat Rack,USD,55,,,,
+5,Democratic Republic Of Congo (Drc),ESL,"Bukavu, Congo (Cdbky) (Cdbky)",20-Open Top,USD,55,,,,
+6,Democratic Republic Of Congo (Drc),ESL,"Bukavu, Congo (Cdbky) (Cdbky)",40-Open Top,USD,55,,,,
+7,Democratic Republic Of Congo (Drc),ESL,"Bukavu, Congo (Cdbky) (Cdbky)",40-Super Rack,USD,55,,,,

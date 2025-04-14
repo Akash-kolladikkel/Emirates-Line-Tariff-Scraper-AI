@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,India,ESL,"Jodhpur, India (Injdh) (Injdh)",20-Dry,USD,5,60,82,110,
+2,India,ESL,"Jodhpur, India (Injdh) (Injdh)",40-Dry,USD,5,120,164,220,
+3,India,ESL,"Jodhpur, India (Injdh) (Injdh)",40-High Cube Reefer,USD,3,165,220,275,
+4,India,ESL,"Jodhpur, India (Injdh) (Injdh)",20-Flat Rack,USD,5,82,110,140,
+5,India,ESL,"Jodhpur, India (Injdh) (Injdh)",40-Flat Rack,USD,5,164,220,280,
+6,India,ESL,"Jodhpur, India (Injdh) (Injdh)",20-Open Top,USD,5,82,110,140,
+7,India,ESL,"Jodhpur, India (Injdh) (Injdh)",40-Open Top,USD,5,164,220,280,
+8,India,ESL,"Jodhpur, India (Injdh) (Injdh)",40-Super Rack,USD,5,164,220,280,

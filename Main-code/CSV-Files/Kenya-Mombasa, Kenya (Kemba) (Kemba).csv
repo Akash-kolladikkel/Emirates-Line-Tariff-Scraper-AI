@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Kenya,ESL,"Mombasa, Kenya (Kemba) (Kemba)",20-Dry,USD,10,N/A,15,30/40,
+2,Kenya,ESL,"Mombasa, Kenya (Kemba) (Kemba)",40-Dry,USD,10,N/A,30,60/80,
+3,Kenya,ESL,"Mombasa, Kenya (Kemba) (Kemba)",40-Reefer,USD,5,110,N/A,220/330,
+4,Kenya,ESL,"Mombasa, Kenya (Kemba) (Kemba)",20-Flat Rack,USD,10,N/A,20,40/50,
+5,Kenya,ESL,"Mombasa, Kenya (Kemba) (Kemba)",40-Flat Rack,USD,10,N/A,40,80/100,
+6,Kenya,ESL,"Mombasa, Kenya (Kemba) (Kemba)",20-Open Top,USD,10,N/A,20,40/50,
+7,Kenya,ESL,"Mombasa, Kenya (Kemba) (Kemba)",40-Open Top,USD,10,N/A,40,80/100,
+8,Kenya,ESL,"Mombasa, Kenya (Kemba) (Kemba)",40-Super Rack,USD,10,N/A,40,80/100,
