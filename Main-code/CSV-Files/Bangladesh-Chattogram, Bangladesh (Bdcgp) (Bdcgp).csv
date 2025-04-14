@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Bangladesh,ESL,"Chattogram, Bangladesh (Bdcgp) (Bdcgp)",20-Dry,USD,4,14,26,50,
+2,Bangladesh,ESL,"Chattogram, Bangladesh (Bdcgp) (Bdcgp)",40-Dry,USD,4,28,52,100,
+3,Bangladesh,ESL,"Chattogram, Bangladesh (Bdcgp) (Bdcgp)",40-High Cube Reefer,USD,3,28,52,100,
+4,Bangladesh,ESL,"Chattogram, Bangladesh (Bdcgp) (Bdcgp)",20-Flat Rack,USD,4,14,26,50,
+5,Bangladesh,ESL,"Chattogram, Bangladesh (Bdcgp) (Bdcgp)",40-Flat Rack,USD,4,28,52,100,
+6,Bangladesh,ESL,"Chattogram, Bangladesh (Bdcgp) (Bdcgp)",20-Open Top,USD,4,14,26,50,
+7,Bangladesh,ESL,"Chattogram, Bangladesh (Bdcgp) (Bdcgp)",40-Open Top,USD,4,28,52,100,
+8,Bangladesh,ESL,"Chattogram, Bangladesh (Bdcgp) (Bdcgp)",40-Super Rack,USD,4,28,52,100,

@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,China,ESL,"Yunfu, China (Cnyuf) (Cnyuf)",20-Dry,CNY,7,,,,
+2,China,ESL,"Yunfu, China (Cnyuf) (Cnyuf)",40-Dry,CNY,7,,,,
+3,China,ESL,"Yunfu, China (Cnyuf) (Cnyuf)",40-High Cube Reefer,CNY,7,,,,
+4,China,ESL,"Yunfu, China (Cnyuf) (Cnyuf)",20-Flat Rack,CNY,7,,,,
+5,China,ESL,"Yunfu, China (Cnyuf) (Cnyuf)",40-Flat Rack,CNY,7,,,,
+6,China,ESL,"Yunfu, China (Cnyuf) (Cnyuf)",20-Open Top,CNY,7,,,,
+7,China,ESL,"Yunfu, China (Cnyuf) (Cnyuf)",40-Open Top,CNY,7,,,,
+8,China,ESL,"Yunfu, China (Cnyuf) (Cnyuf)",40-Super Rack,CNY,7,,,,

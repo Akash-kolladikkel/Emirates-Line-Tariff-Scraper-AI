@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges,Bucket 1 (8-20),Bucket 2 (21-40),Bucket 3 (41-9999),Bucket 1 (8-15),Bucket 2 (16-40)
+1,China,ESL,"Yichang, China (Cnycg) (Cnycg)",20-Dry,CNY,7,,,,,100,200,400,,
+2,China,ESL,"Yichang, China (Cnycg) (Cnycg)",40-Dry,CNY,7,,,,,200,400,800,,
+3,China,ESL,"Yichang, China (Cnycg) (Cnycg)",40' High Cube Reefer,CNY,7,,450,720,,,,1200,450,720
+4,China,ESL,"Yichang, China (Cnycg) (Cnycg)",20’ Flat Rack,CNY,7,,225,360,,,,600,225,360
+5,China,ESL,"Yichang, China (Cnycg) (Cnycg)",40’ Flat Rack,CNY,7,,450,720,,,,1200,450,720
+6,China,ESL,"Yichang, China (Cnycg) (Cnycg)",20’ Open Top,CNY,7,,225,360,,,,600,225,360
+7,China,ESL,"Yichang, China (Cnycg) (Cnycg)",40’ Open Top,CNY,7,,450,720,,,,1200,450,720
+8,China,ESL,"Yichang, China (Cnycg) (Cnycg)",40’ Super Rack,CNY,7,,450,720,,,,1200,450,720

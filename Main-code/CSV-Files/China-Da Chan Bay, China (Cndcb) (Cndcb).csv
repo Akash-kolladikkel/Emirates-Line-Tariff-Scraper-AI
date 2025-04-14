@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,China,ESL,"Da Chan Bay, China (Cndcb) (Cndcb)",20-Dry,CNY,7,,,400,
+2,China,ESL,"Da Chan Bay, China (Cndcb) (Cndcb)",40-Dry,CNY,7,,,800,
+3,China,ESL,"Da Chan Bay, China (Cndcb) (Cndcb)",40-High Cube Reefer,CNY,7,,450,1200,
+4,China,ESL,"Da Chan Bay, China (Cndcb) (Cndcb)",20-Flat Rack,CNY,7,,225,600,
+5,China,ESL,"Da Chan Bay, China (Cndcb) (Cndcb)",40-Flat Rack,CNY,7,,450,1200,
+6,China,ESL,"Da Chan Bay, China (Cndcb) (Cndcb)",20-Open Top,CNY,7,,225,600,
+7,China,ESL,"Da Chan Bay, China (Cndcb) (Cndcb)",40-Open Top,CNY,7,,450,1200,
+8,China,ESL,"Da Chan Bay, China (Cndcb) (Cndcb)",40-Super Rack,CNY,7,,450,1200,

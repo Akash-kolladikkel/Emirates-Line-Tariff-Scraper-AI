@@ -1,0 +1,4 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,Bahrain,ESL,Bahrain (Bhbah) (Bhbah),20-Dry,USD,5,50,75,100,Cleaning Fee: $25
+2,Bahrain,ESL,Bahrain (Bhbah) (Bhbah),40-Reefer,USD,3,75,100,150,Plug-in Charge: $50/day
+3,Bahrain,ESL,Bahrain (Bhbah) (Bhbah),20-Tank,EUR,7,60,85,110,

@@ -1,0 +1,9 @@
+S.N,Country,Line,Port,Equipment_Type,Currency,Free_days,Bucket 1 (6-10),Bucket 2 (11-15),Bucket 3 (16-9999),Local_Charges
+1,China,ESL,"Xiamen, China (Cnxmn) (Cnxmn)",20’ Dry,CNY,7,150,,300,
+2,China,ESL,"Xiamen, China (Cnxmn) (Cnxmn)",40’ Dry,CNY,7,300,,600,
+3,China,ESL,"Xiamen, China (Cnxmn) (Cnxmn)",40' High Cube Reefer,CNY,7,,450,900,
+4,China,ESL,"Xiamen, China (Cnxmn) (Cnxmn)",20’ Flat Rack,CNY,7,,225,450,
+5,China,ESL,"Xiamen, China (Cnxmn) (Cnxmn)",40’ Flat Rack,CNY,7,,450,900,
+6,China,ESL,"Xiamen, China (Cnxmn) (Cnxmn)",20’ Open Top,CNY,7,,225,450,
+7,China,ESL,"Xiamen, China (Cnxmn) (Cnxmn)",40’ Open Top,CNY,7,,450,900,
+8,China,ESL,"Xiamen, China (Cnxmn) (Cnxmn)",40’ Super Rack,CNY,7,,450,900,
