@@ -36,17 +36,25 @@ This Python project automates the extraction of demurrage and detention tariffs 
 ### ⚙️ Workflow
 ## 1️⃣ Web Scraping 
 
-- Launches headless Chrome
+- Launches Chrome in headless mode
 - Loops through all countries and ports
 - Downloads Excel files into Data/
-- Handles browser crashes every 3 countries
+- Resets the browser session every 3 countries to avoid crashes
 
 ## 2️⃣ Data Processing 
 
 - Reads Excel files from Excel-files/
-- Uses Gemini AI to parse to structured format
+- Converts them to Markdown
+- Parses using Gemini AI to structured JSON
 - Saves individual CSVs to CSV-files/
 - Combines into a single final.csv
+
+---
+## 🌐 Web App – AI-powered CSV Agent
+We’ve built an interactive web app using LangChain that allows users to query the final CSV data using natural language.
+
+🔗 Try it here: emirates-line-tariff-scraper-ai.streamlit.app
+
 
 ---
 
