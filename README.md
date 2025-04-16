@@ -31,6 +31,7 @@ I’ve built an interactive web app using LangChain that allows users to query t
 ```bash
 ├── main-code/             # Main scraper and processing scripts (including downloaded Excel and processed CSV files)
 ├── Base-code/             # Jupyter notebooks for initial testing
+├── src/                   # Streamlit Webapp code
 └── Final/                 # Final combined CSV output
 ```
 ---
