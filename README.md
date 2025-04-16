@@ -8,7 +8,7 @@ It includes a headless web scraper, an AI-powered data processor using Gemini, a
 ---
 
 ## 🌐 Web App – AI-powered CSV Agent
-Developed an interactive web application using LangChain that allows users to query the final CSV dataset using natural language. The app is deployed on Streamlit Cloud
+I've developed an interactive web application using LangChain that allows users to query the final CSV dataset using natural language, the app is deployed on Streamlit Cloud
 
 🔗 Try it here: [*Web App*](https://emirates-line-tariff-scraper-ai.streamlit.app/)
 ![ss1](https://github.com/Akash-kolladikkel/Emirates-Line-Tariff-Scraper-AI/blob/d713ee02d8bc3074b9510189310131c3995ad168/ESL-AI.png)
