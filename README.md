@@ -54,7 +54,7 @@ It includes a headless web scraper, an AI-powered data processor using Gemini, a
 ## 🌐 Web App – AI-powered CSV Agent
 We’ve built an interactive web app using LangChain that allows users to query the final CSV data using natural language.
 
-🔗 Try it here: emirates-line-tariff-scraper-ai.streamlit.app
+🔗 Try it here: [webapp](emirates-line-tariff-scraper-ai.streamlit.app)
 ![ss1](https://github.com/Akash-kolladikkel/Emirates-Line-Tariff-Scraper-AI/blob/d713ee02d8bc3074b9510189310131c3995ad168/ESL-AI.png)
 
 ---
