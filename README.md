@@ -63,7 +63,7 @@ Developed an interactive web application using LangChain that allows users to qu
 - Built a LangChain CSV agent to query `final.csv` using natural language.
 - Uses a Pandas DataFrame agent with Python code execution under the hood.
 - Adapted the agent from OpenAI to support Gemini with custom prompts and parameters.
-- Designed a custom prompt template for domain-specific understanding.
+- Hosted on Streamlit Cloud
 
 ---
 
