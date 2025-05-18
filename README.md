@@ -54,10 +54,16 @@ I've developed an interactive web application using LangChain that allows users 
 ## 2️⃣ Data Processing 
 
 - Reads Excel files from `Excel-files/`
-- Converts them to Markdown
-- Parses using Gemini AI to structured JSON
+- Uses `gemini-2.0-flash` model to parse Excel into structured Markdown → JSON
 - Saves individual CSVs to `CSV-files/`
 - Combines into a single `final.csv`
+
+## 3️⃣ LangChain CSV Agent Web App
+
+- Built a LangChain CSV agent to query `final.csv` using natural language.
+- Uses a Pandas DataFrame agent with Python code execution under the hood.
+- Adapted the agent from OpenAI to support Gemini with custom prompts and parameters.
+- Designed a custom prompt template for domain-specific understanding.
 
 ---
 
